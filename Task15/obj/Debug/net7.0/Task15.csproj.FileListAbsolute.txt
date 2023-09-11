@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/bin/Debug/net7.0/Task15
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/bin/Debug/net7.0/Task15.deps.json
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/bin/Debug/net7.0/Task15.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/bin/Debug/net7.0/Task15.dll
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/bin/Debug/net7.0/Task15.pdb
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.dll
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/refint/Task15.dll
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.pdb
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/Task15.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Sem2_ДЗ/Task15/obj/Debug/net7.0/ref/Task15.dll
